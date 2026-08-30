@@ -1,0 +1,9 @@
+[book]
+title = "Balkan Euro Trip — 8-Day Road Itinerary"
+authors = ["Orchestrated by Lead Agent"]
+description = "Technical road-trip guide with hikes, borders & stays"
+src = "src"
+language = "en"
+
+[output.html]
+search = { enable = true, limit-results = 30 }
