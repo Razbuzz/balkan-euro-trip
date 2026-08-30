@@ -44,10 +44,7 @@ install:
 	@echo "Installation complete. Verify with: mdbook --version"
 
 serve: build
-	mdbook serve --document-root ./book --hostname 0.0.0.0 --port 5900
-
-dev: build
-	mdbook serve --document-root ./book --hostname 0.0.0.0 --port 5900 --watch
+	mdbook serve
 
 build:
 	mdbook build
