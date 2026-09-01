@@ -13,3 +13,6 @@
 - [Day 6 — Tirana → Skopje](day6_tirana_to_skopje.md)
 - [Day 7 — Skopje & Trem Summit](day7_skopje_trem_summit.md)
 - [Day 8 — Skopje → Sofia (Final Night)](day8_skopje_to_sofia.md)
+
+## Other
+- [Suggested Trip (Draft Notes)](suggested_trip.md)
